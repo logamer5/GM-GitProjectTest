@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_look","path":"sprites/spr_look/spr_look.yy",},"order":0,},
     {"id":{"name":"obj_object","path":"objects/obj_object/obj_object.yy",},"order":0,},
+    {"id":{"name":"obj_idk","path":"objects/obj_idk/obj_idk.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
